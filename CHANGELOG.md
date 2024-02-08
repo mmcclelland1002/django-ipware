@@ -1,3 +1,24 @@
+# 6.0.4
+
+Enhancement:
+- Add typings (thx: @federicobond)
+
+# 6.0.3
+
+Enhancement:
+- Show in Pypi Python 3.12 is supported (thx: @jrobichaud)
+
+# 6.0.2
+
+Enhancement:
+- Add support for Django 5.0 (thx: @cclauss)
+- Add support for Python 3.12 (thx: @cclauss)
+
+# 6.0.1
+
+Enhancement:
+- Add IPWARE_META_PROXY_COUNT setting + corresponding docs (thx: @mmcclelland1002)
+
 # 6.0.0
 
 Enhancement: (breaking changes)
